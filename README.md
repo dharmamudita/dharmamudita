@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/dharmamudita">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%92%BB+Building+the+Future+with+Code+%26+AI;%F0%9F%8E%A8+Turning+Ideas+into+Digital+Reality;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%F0%9F%9A%80+From+Frontend+to+Backend+%26+Beyond" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+the+Future+with+Code+%26+AI;Turning+Ideas+into+Digital+Reality;Exploring+AI+%26+Machine+Learning;From+Frontend+to+Backend+%26+Beyond" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
   <img width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 </div>
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name: Dharma Mudita
@@ -40,14 +40,14 @@ currently_learning:
   - Advanced AI & Deep Learning
   - Cloud Architecture
   - Mobile Development with Flutter
-fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
+fun_fact: "I turn coffee into code and pixels into art"
 ```
 
 <br/>
 
 ---
 
-## 🌐 Socials:
+## Connect with me
 
 <div align="center">
 
@@ -61,11 +61,11 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack
 
 <div align="center">
 
-### 🔤 Languages
+### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -79,7 +79,7 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 ![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### ⚡ Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -98,7 +98,7 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-### 🗄️ Databases & Backend Services
+### Databases & Backend Services
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -108,7 +108,7 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ☁️ Cloud & Hosting
+### Cloud & Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
@@ -119,7 +119,7 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -145,7 +145,7 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -164,7 +164,7 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🎨 Design & Creative Tools
+### Design & Creative Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -180,7 +180,7 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dharmamudita&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
@@ -201,7 +201,7 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 
 ---
 
-## 🏆 GitHub Trophies
+## Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dharmamudita&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
@@ -209,7 +209,7 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 
 ---
 
-## 🐍 Contribution Snake
+## Contributions
 
 <div align="center">
   <picture>
@@ -223,13 +223,13 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-### 💰 Support My Work
+### Support My Work
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/)
@@ -240,4 +240,4 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 
 </div>
 
-<!-- ✨ Proudly created by Dharma Mudita ✨ -->
+<!-- Created by Dharma Mudita -->
