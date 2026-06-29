@@ -20,7 +20,9 @@
 <br/>
 
 <!-- ABOUT ME -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+<div align="center">
+  <img width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -41,7 +43,7 @@ currently_learning:
 fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 ```
 
-<br clear="both"/>
+<br/>
 
 ---
 
@@ -181,20 +183,20 @@ fun_fact: "I turn coffee ☕ into code and pixels into art 🎨"
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharmamudita&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmamudita&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmamudita&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmamudita&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmamudita&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmamudita&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmamudita&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmamudita&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
