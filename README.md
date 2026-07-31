@@ -183,8 +183,8 @@ fun_fact: "I turn coffee into code and pixels into art"
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmamudita&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmamudita&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmamudita&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&v=1" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmamudita&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&v=1" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -204,7 +204,7 @@ fun_fact: "I turn coffee into code and pixels into art"
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dharmamudita&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dharmamudita&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&v=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -213,9 +213,9 @@ fun_fact: "I turn coffee into code and pixels into art"
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dharmamudita/dharmamudita/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dharmamudita/dharmamudita/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/dharmamudita/dharmamudita/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake.svg?raw=true" />
+    <img alt="github-snake" src="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake.svg?raw=true" />
   </picture>
 </div>
 
