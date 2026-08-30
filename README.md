@@ -1,22 +1,24 @@
 <div align="center">
 
-<!-- BLACK & WHITE COMIC / MANGA HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:111111,100:000000&height=180&section=header&text=DHARMA%20MUDITA&fontSize=52&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&fontAlignY=42&desc=%E2%96%88%E2%96%88%20ISSUE%20%2301%20%3A%20FULL-STACK%20ENGINEER%20%E2%80%A2%20TYPESCRIPT%20%26%20NEXT.JS%20%E2%80%A2%20AI%20EXPLORER%20%E2%96%88%E2%96%88&descSize=14&descAlignY=68&descAlign=50" alt="Manga Header Banner" />
+# ⚡ DHARMA MUDITA ⚡
+### `[ ISSUE #01 : FULL-STACK ENGINEER • TYPESCRIPT & NEXT.JS • AI EXPLORER ]`
+
+<br/>
+
+<!-- MANGA TYPING ANIMATION (PURE B&W COMIC TYPOGRAPHY) -->
+<a href="https://github.com/dharmamudita">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=800&size=25&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=80&lines=POW!+TURNING+COMPLEX+CHALLENGES+INTO+SCALABLE+CODE;BOOM!+MODERN+NEXT.JS+%26+TYPESCRIPT+ARCHITECTURE;KAPOW!+EXPLORING+AI%2C+DEEP+LEARNING+%26+COMPUTER+VISION;LEVEL+UP!+CRAFTING+RESPONSIVE+HIGH-IMPACT+WEB+APPS" alt="Manga Typing Animation" />
+</a>
 
 <br/>
 
 <!-- BLACK & WHITE BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-000000?style=for-the-badge&logoColor=FFFFFF&labelColor=333333&color=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-000000?style=for-the-badge&logoColor=FFFFFF&labelColor=222222&color=000000" alt="Status" />
   <img src="https://komarev.com/ghpvc/?username=dharmamudita&label=READERS&color=000000&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/dharmamudita?tab=followers"><img src="https://img.shields.io/github/followers/dharmamudita?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=333333" alt="Followers" /></a>
-  <a href="https://github.com/dharmamudita?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-PUBLIC-000000?style=for-the-badge&labelColor=333333" alt="Repositories" /></a>
+  <a href="https://github.com/dharmamudita?tab=followers"><img src="https://img.shields.io/github/followers/dharmamudita?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=222222" alt="Followers" /></a>
+  <a href="https://github.com/dharmamudita?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-PUBLIC-000000?style=for-the-badge&labelColor=222222" alt="Repositories" /></a>
 </p>
-
-<!-- MANGA TYPING ANIMATION (PURE B&W COMIC TYPOGRAPHY) -->
-<a href="https://github.com/dharmamudita">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=800&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=85&lines=POW!+TURNING+COMPLEX+IDEAS+INTO+SCALABLE+CODE;BOOM!+MODERN+NEXT.JS+%26+TYPESCRIPT+ARCHITECTURE;KAPOW!+EXPLORING+AI%2C+DEEP+LEARNING+%26+COMPUTER+VISION;LEVEL+UP!+CRAFTING+RESPONSIVE+UI+WITH+HIGH+IMPACT" alt="Manga Typing Animation" />
-</a>
 
 </div>
 
@@ -24,23 +26,22 @@
 
 ---
 
-## 🗯️ [PANEL 1] ORIGIN & PROFILE
+## 🗯️ [PANEL 1] DEVELOPER DOSSIER
 
-<div align="center">
-  <img src="./assets/avatar.jpg" width="280" style="border: 4px solid #FFFFFF; border-radius: 16px; filter: grayscale(100%);" alt="Dharma Mudita Manga Avatar" />
-</div>
-
-<br/>
-
-> ### 💬 **DEVELOPER DOSSIER**
-> 
-> - **Identity:** Dharma Mudita
-> - **Base of Operations:** Bandar Lampung, Indonesia 🇮🇩
-> - **Academy:** Universitas Teknokrat Indonesia (Informatika / Computer Science)
-> - **Specialization:** Full-Stack Web Development, Next.js, TypeScript &amp; Artificial Intelligence
-> - **Mission:** *Crafting resilient software architecture and building intuitive digital products that deliver real impact.*
-
-<br/>
+```yaml
+identity:
+  name: "Dharma Mudita"
+  base_of_operations: "Bandar Lampung, Indonesia 🇮🇩"
+  academy: "Universitas Teknokrat Indonesia (Informatika / Computer Science)"
+  role: "Full-Stack Software Engineer"
+  core_stack: ["TypeScript", "Next.js 14+", "React", "Node.js", "Python", "TailwindCSS"]
+  specialization:
+    - "High-Performance Web Architecture (Next.js App Router, TypeScript)"
+    - "Backend Systems & Database Design (PostgreSQL, MySQL, Supabase, Prisma)"
+    - "Artificial Intelligence, Deep Learning & Computer Vision (PyTorch, OpenCV)"
+    - "Creative Media & UI/UX Craftsmanship (Figma, Video Editing)"
+  motto: "Clean code, robust architecture, and relentless curiosity."
+```
 
 ```typescript
 // ==========================================
@@ -53,7 +54,7 @@ export const developer = {
   primaryStack: ["TypeScript", "Next.js 14+", "React", "Node.js", "Python", "TailwindCSS"],
   databaseLayer: ["PostgreSQL", "MySQL", "MongoDB", "Supabase", "Prisma ORM"],
   intelligence: ["PyTorch", "TensorFlow", "OpenCV", "LangChain", "LLMs"],
-  motto: "Clean code, robust architecture, and relentless curiosity."
+  mission: "Transforming ambitious ideas into scalable, high-performance web systems."
 } as const;
 ```
 
@@ -159,21 +160,24 @@ export const developer = {
 
 ---
 
-## 📡 [PANEL 5] TRANSMISSION / CONNECT
+## 📡 [PANEL 5] TRANSMISSION (CONNECT)
 
 <div align="center">
 
 <p><b>Ready to collaborate on high-impact software? Reach out through any channel:</b></p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=333333)](https://www.instagram.com/voltxdharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333333)](https://www.linkedin.com/in/dharma-mudita-a7421641a)
-[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333)](mailto:dharmamudita404@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/dharmamudita)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=333333)](https://www.tiktok.com/@anothervoltz)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=222222)](https://www.instagram.com/voltxdharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222222)](https://www.linkedin.com/in/dharma-mudita-a7421641a)
+[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222222)](mailto:dharmamudita404@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=222222)](https://github.com/dharmamudita)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=222222)](https://www.tiktok.com/@anothervoltz)
 
 <br/><br/>
 
-<!-- BLACK & WHITE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:111111,100:000000&height=100&section=footer&text=TO%20BE%20CONTINUED...&fontSize=26&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2" alt="Manga Footer" />
+```
+┌──────────────────────────────────────────────────────────┐
+│  💥 [END OF ISSUE #01] TO BE CONTINUED IN NEXT COMMIT... │
+└──────────────────────────────────────────────────────────┘
+```
 
 </div>
