@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- PURE MANGA COMIC HEADER SVG BANNER -->
+<!-- MANGA COMIC HEADER SVG BANNER -->
 <img width="100%" src="./assets/comic-header.svg" alt="Dharma Mudita Manga Header" />
 
 <br/><br/>
 
-<!-- MANGA TYPING ANIMATION (BALANCED HEIGHT SO NO TEXT CLIPS) -->
+<!-- SMOOTH SINGLE-LINE TYPING ANIMATION (NEVER CLIPS) -->
 <a href="https://github.com/dharmamudita">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=800&size=24&duration=3200&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=120&lines=POW!+TURNING+COMPLEX+CHALLENGES+INTO+SCALABLE+CODE;BOOM!+MODERN+NEXT.JS+%26+TYPESCRIPT+ARCHITECTURE;KAPOW!+EXPLORING+AI%2C+DEEP+LEARNING+%26+COMPUTER+VISION;LEVEL+UP!+CRAFTING+HIGH-IMPACT+RESPONSIVE+WEB+SYSTEMS" alt="Manga Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=700&size=28&duration=2800&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&repeat=true&random=false&width=800&height=65&lines=POW!+TURNING+COMPLEX+CHALLENGES+INTO+SCALABLE+CODE;BOOM!+MODERN+NEXT.JS+%26+TYPESCRIPT+ARCHITECTURE;KAPOW!+EXPLORING+AI%2C+DEEP+LEARNING+%26+COMPUTER+VISION;LEVEL+UP!+CRAFTING+HIGH-IMPACT+RESPONSIVE+WEB+SYSTEMS" alt="Manga Typing Animation" />
 </a>
 
 <br/>
@@ -33,7 +33,11 @@
 
 <table width="100%">
 <tr>
-<td style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px;">
+<td style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px; box-shadow: 6px 6px 0px #FFFFFF;">
+
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 15px; font-weight: 900; padding: 6px 16px; border-radius: 8px; display: inline-block; margin-bottom: 14px; letter-spacing: 1px;">
+  🗯️ TOP SECRET : DEVELOPER PROFILE
+</div>
 
 ```yaml
 identity:
@@ -49,6 +53,10 @@ identity:
     - "Creative Media & UI/UX Craftsmanship (Figma, Video Editing)"
   motto: "Clean code, robust architecture, and relentless curiosity."
 ```
+
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 15px; font-weight: 900; padding: 6px 16px; border-radius: 8px; display: inline-block; margin: 14px 0 10px 0; letter-spacing: 1px;">
+  ⚡ SYSTEM ARCHITECTURE SPECIFICATION
+</div>
 
 ```typescript
 // ==========================================
@@ -80,9 +88,12 @@ export const developer = {
 
 <table width="100%">
 <tr>
-<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px;">
+<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px; box-shadow: 6px 6px 0px #FFFFFF;">
 
-### Core Programming Languages
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 14px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
+  ⚔️ CORE PROGRAMMING LANGUAGES
+</div>
+<br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -93,7 +104,12 @@ export const developer = {
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Web Engines & Frameworks
+<br/><br/>
+
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 14px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
+  🛡️ WEB ENGINES &amp; FRAMEWORKS
+</div>
+<br/>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
@@ -104,7 +120,12 @@ export const developer = {
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-### Databases & Cloud Infrastructure
+<br/><br/>
+
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 14px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
+  🔮 DATABASES &amp; CLOUD INFRASTRUCTURE
+</div>
+<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -114,7 +135,12 @@ export const developer = {
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### AI & Machine Learning
+<br/><br/>
+
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 14px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
+  🤖 ARTIFICIAL INTELLIGENCE &amp; VISION
+</div>
+<br/>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=white)
@@ -125,7 +151,12 @@ export const developer = {
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Creative Studio & Tools
+<br/><br/>
+
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 14px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
+  🎨 CREATIVE STUDIO &amp; TOOLS
+</div>
+<br/>
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-000000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
@@ -149,9 +180,14 @@ export const developer = {
 
 <table width="100%">
 <tr>
-<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px;">
+<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px; box-shadow: 6px 6px 0px #FFFFFF;">
 
-<!-- B&W STREAK STATS (100% WORKING & ACCURATE) -->
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 16px; border-radius: 6px; display: inline-block; margin-bottom: 16px; letter-spacing: 1px;">
+  ⚡ CONTINUOUS CODING STREAK &amp; METRICS
+</div>
+<br/>
+
+<!-- B&W STREAK STATS -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmamudita&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=FFFFFF&dates=E0E0E0&border_radius=14" alt="GitHub Streak Stats" />
 
 </td>
@@ -169,7 +205,7 @@ export const developer = {
 
 <table width="100%">
 <tr>
-<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px;">
+<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px; box-shadow: 6px 6px 0px #FFFFFF;">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake-dark.svg?raw=true" />
@@ -192,8 +228,12 @@ export const developer = {
 
 <table width="100%">
 <tr>
-<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px;">
+<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px; box-shadow: 6px 6px 0px #FFFFFF;">
 
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 16px; border-radius: 6px; display: inline-block; margin-bottom: 16px; letter-spacing: 1px;">
+  📡 TRANSMISSION FREQUENCIES
+</div>
+<br/>
 <p style="font-size: 15px; color: #FFFFFF; font-weight: bold; margin-top: 0;">Ready to collaborate on high-impact software? Reach out through any channel:</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=222222)](https://www.instagram.com/voltxdharma)
