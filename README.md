@@ -211,7 +211,7 @@ export const developer = {
 ---
 
 <!-- PANEL 4 BANNER (CONTRIBUTION ARCADE SNAKE) -->
-<img width="100%" src="./assets/comic-snake-banner.svg" alt="Panel 4 Snake Banner" />
+<img width="100%" src="./assets/comic-arcade-banner.svg" alt="Panel 4 Contribution Arcade Banner" />
 
 <br/><br/>
 
