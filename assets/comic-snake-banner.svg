@@ -18,7 +18,7 @@
     PANEL 4 : CONTRIBUTION ARCADE SNAKE
   </text>
   <text x="110" y="85" fill="#CCCCCC" font-family="monospace, sans-serif" font-size="13" font-weight="bold" letter-spacing="1">
-    PIXEL RETRO ACTION &bull; CODE CONTRIBUTION MATRIX
+    PIXEL RETRO ACTION &#8226; CODE CONTRIBUTION MATRIX
   </text>
 
   <rect x="730" y="40" width="120" height="40" rx="8" fill="#FFFFFF" stroke="#000000" stroke-width="2" />
