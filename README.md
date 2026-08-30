@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-000000?style=for-the-badge&logoColor=FFFFFF&labelColor=222222&color=000000" alt="Status" />
   <img src="https://komarev.com/ghpvc/?username=dharmamudita&label=READERS&color=000000&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/dharmamudita?tab=followers"><img src="https://img.shields.io/github/followers/dharmamudita?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=222222" alt="Followers" /></a>
-  <a href="https://github.com/dharmamudita?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-PUBLIC-000000?style=for-the-badge&labelColor=222222" alt="Repositories" /></a>
+  <a href="https://github.com/dharmamudita?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-22%20PUBLIC-000000?style=for-the-badge&labelColor=222222" alt="Repositories" /></a>
 </p>
 
 </div>
@@ -124,31 +124,18 @@ export const developer = {
 
 ---
 
-## 📊 [PANEL 3] BATTLE METRICS (GITHUB STATS)
+## 📊 [PANEL 3] BATTLE METRICS (GITHUB STREAK & STATS)
 
 <div align="center">
-  <!-- PURE BLACK & WHITE HIGH CONTRAST STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmamudita&bg_color=000000&title_color=FFFFFF&text_color=E0E0E0&icon_color=FFFFFF&border_color=FFFFFF&border_radius=14&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmamudita&bg_color=000000&title_color=FFFFFF&text_color=E0E0E0&border_color=FFFFFF&border_radius=14&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <!-- B&W STREAK STATS (100% WORKING & ACCURATE) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmamudita&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=FFFFFF&dates=E0E0E0&border_radius=14" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
-
-<div align="center">
-  <!-- B&W STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmamudita&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=FFFFFF&dates=E0E0E0&border_radius=14" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- B&W ACTIVITY GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmamudita&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=FFFFFF&border_radius=14" alt="Contribution Graph" />
-</div>
 
 ---
 
-## 🐍 [PANEL 4] CONTRIBUTION SNAKE
+## 🐍 [PANEL 4] CONTRIBUTION ARCADE SNAKE
 
 <div align="center">
   <picture>
