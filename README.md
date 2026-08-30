@@ -218,9 +218,9 @@ export const developer = {
 
 ---
 
-<!-- PANEL 4 BANNER -->
+<!-- PANEL 4 BANNER (ARACHNID / SPIDER WEB MATRIX) -->
 <div align="center">
-  <img width="100%" src="./assets/comic-snake-banner.svg" alt="Panel 4 Snake Banner" />
+  <img width="100%" src="./assets/comic-spider-banner.svg" alt="Panel 4 Spider Matrix Banner" />
 </div>
 
 <br/>
@@ -229,10 +229,15 @@ export const developer = {
 <tr>
 <td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px; box-shadow: 6px 6px 0px #FFFFFF;">
 
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 16px; border-radius: 6px; display: inline-block; margin-bottom: 16px; letter-spacing: 1px;">
+  🕸️ ARACHNID WEB CONTRIBUTION CRAWLER
+</div>
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake-dark.svg?raw=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake.svg?raw=true" />
-  <img alt="Contribution Snake" src="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake.svg?raw=true" />
+  <img alt="Arachnid Contribution Matrix" src="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake.svg?raw=true" />
 </picture>
 
 </td>
@@ -271,7 +276,9 @@ export const developer = {
 <br/>
 
 <div align="center">
-  <code style="color: #FFFFFF; font-family: monospace; font-size: 13px;">┌──────────────────────────────────────────────────────────┐<br/>│  💥 [END OF ISSUE #01] TO BE CONTINUED IN NEXT COMMIT... │<br/>└──────────────────────────────────────────────────────────┘</code>
+  <div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 8px 24px; border-radius: 8px; display: inline-block; letter-spacing: 2px;">
+    💥 [END OF ISSUE #01] TO BE CONTINUED IN NEXT COMMIT... 💥
+  </div>
 </div>
 
 </td>
