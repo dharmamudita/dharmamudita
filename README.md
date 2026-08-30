@@ -224,11 +224,7 @@ export const developer = {
 </div>
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake.svg?raw=true" />
-  <img alt="Arachnid Contribution Matrix" src="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake.svg?raw=true" />
-</picture>
+<img width="100%" src="./assets/spider-crawler.svg" alt="Arachnid Contribution Matrix" />
 
 </td>
 </tr>
