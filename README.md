@@ -210,8 +210,8 @@ export const developer = {
 
 ---
 
-<!-- PANEL 4 BANNER (ARACHNID / SPIDER WEB MATRIX) -->
-<img width="100%" src="./assets/comic-panel4.svg" alt="Panel 4 Spider Matrix Banner" />
+<!-- PANEL 4 BANNER (CONTRIBUTION ARCADE SNAKE) -->
+<img width="100%" src="./assets/comic-snake-banner.svg" alt="Panel 4 Snake Banner" />
 
 <br/><br/>
 
@@ -220,12 +220,12 @@ export const developer = {
 <td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px; box-shadow: 6px 6px 0px #FFFFFF;">
 
 <div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 16px; border-radius: 6px; display: inline-block; margin-bottom: 16px; letter-spacing: 1px;">
-  🕸️ ARACHNID WEB CONTRIBUTION CRAWLER
+  🐍 REAL CONTRIBUTION RETRO ARCADE SNAKE
 </div>
 <br/>
 
-<!-- ANIMATED 8-LEGGED SPIDER CRAWLING ACROSS CONTRIBUTION MATRIX -->
-<img width="100%" src="./assets/spider-grid.svg" alt="Spider Contribution Matrix" />
+<!-- REAL CONTRIBUTION SNAKE GAME ANIMATION -->
+<img width="100%" src="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake-dark.svg?raw=true" alt="Contribution Snake Arcade" />
 
 </td>
 </tr>

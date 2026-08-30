@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" height="100%">
   <defs>
-    <pattern id="arcade-dots" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+    <pattern id="arcade-dots-pattern" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
       <circle cx="5" cy="5" r="1.8" fill="#FFFFFF" opacity="0.35" />
     </pattern>
   </defs>
 
   <rect x="4" y="4" width="892" height="112" rx="14" fill="#0D1117" stroke="#FFFFFF" stroke-width="3" />
-  <rect x="6" y="6" width="888" height="108" rx="12" fill="url(#arcade-dots)" />
+  <rect x="6" y="6" width="888" height="108" rx="12" fill="url(#arcade-dots-pattern)" />
 
   <polygon points="10,10 120,10 70,110 10,110" fill="#FFFFFF" opacity="0.12" />
   <polygon points="890,10 780,10 830,110 890,110" fill="#FFFFFF" opacity="0.12" />
@@ -14,11 +14,11 @@
   <rect x="40" y="36" width="48" height="48" rx="10" fill="#FFFFFF" stroke="#000000" stroke-width="2" />
   <text x="64" y="68" fill="#000000" font-family="'Impact', sans-serif" font-size="26" text-anchor="middle" font-weight="bold">#4</text>
 
-  <text x="110" y="58" fill="#FFFFFF" font-family="'Impact', 'Arial Black', sans-serif" font-size="28" font-weight="900" letter-spacing="2">
+  <text x="110" y="58" fill="#FFFFFF" font-family="'Impact', 'Arial Black', sans-serif" font-size="26" font-weight="900" letter-spacing="2">
     PANEL 4 : CONTRIBUTION ARCADE SNAKE
   </text>
-  <text x="110" y="85" fill="#CCCCCC" font-family="monospace, sans-serif" font-size="14" font-weight="bold" letter-spacing="1">
-    PIXEL RETRO ACTION • CODE CONTRIBUTION MATRIX
+  <text x="110" y="85" fill="#CCCCCC" font-family="monospace, sans-serif" font-size="13" font-weight="bold" letter-spacing="1">
+    PIXEL RETRO ACTION &bull; CODE CONTRIBUTION MATRIX
   </text>
 
   <rect x="730" y="40" width="120" height="40" rx="8" fill="#FFFFFF" stroke="#000000" stroke-width="2" />
