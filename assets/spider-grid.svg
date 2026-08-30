@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 180" width="100%" height="180">
+  <defs>
+    <!-- MATRIX GRID PATTERN -->
+    <pattern id="matrix-grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="2" y="2" width="12" height="12" rx="3" fill="#161B22" />
+    </pattern>
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="880" height="180" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="2" />
+
+  <!-- MATRIX COMMIT GRID TILES -->
+  <rect x="20" y="20" width="840" height="140" fill="url(#matrix-grid)" />
+
+  <!-- DIVERSE COMMIT LEVEL NODES -->
+  <rect x="68" y="36" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.3" />
+  <rect x="116" y="68" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.5" />
+  <rect x="180" y="84" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.8" />
+  <rect x="212" y="52" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.4" />
+  <rect x="276" y="100" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.7" />
+  <rect x="308" y="52" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.9" />
+  <rect x="340" y="84" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.6" />
+  <rect x="420" y="36" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.5" />
+  <rect x="468" y="116" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.8" />
+  <rect x="548" y="100" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.4" />
+  <rect x="628" y="68" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.9" />
+  <rect x="692" y="52" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.6" />
+  <rect x="740" y="116" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.9" />
+  <rect x="756" y="84" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.8" />
+  <rect x="804" y="36" width="12" height="12" rx="3" fill="#FFFFFF" opacity="0.9" />
+
+  <!-- SPIDERWEB TRAIL LINES WITH PULSING OPACITY -->
+  <path d="M 40 40 L 240 90 L 480 30 L 720 100 L 520 130 L 200 60 Z" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3s" repeatCount="indefinite" />
+  </path>
+  <path d="M 120 70 L 310 50 L 630 70 L 740 120" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-dasharray="2,4" opacity="0.5" />
+
+  <!-- REAL ANIMATED 8-LEGGED SPIDER (LABA-LABA) MOVING ACROSS THE GRID -->
+  <g>
+    <!-- SMIL CRAWL ANIMATION (SUPPORTED 100% IN GITHUB SVGS) -->
+    <animateTransform attributeName="transform" type="translate"
+      values="40,30; 240,80; 480,25; 720,90; 520,120; 200,50; 40,30"
+      dur="14s" repeatCount="indefinite" />
+
+    <!-- SPIDER BODY -->
+    <ellipse cx="22" cy="22" rx="10" ry="12" fill="#FFFFFF" stroke="#000000" stroke-width="2" />
+    <circle cx="22" cy="11" r="6" fill="#FFFFFF" stroke="#000000" stroke-width="2" />
+    
+    <!-- SPIDER GLOWING RED EYES -->
+    <circle cx="20" cy="10" r="1.5" fill="#FF1744" />
+    <circle cx="24" cy="10" r="1.5" fill="#FF1744" />
+
+    <!-- SPIDER EMBLEM ON ABDOMEN -->
+    <polygon points="22,17 25,23 22,29 19,23" fill="#000000" />
+
+    <!-- 4 LEFT LEGS -->
+    <path d="M 14 13 Q 5 4 1 12" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M 12 18 Q 3 13 0 22" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M 12 25 Q 4 31 1 38" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M 14 30 Q 7 40 4 45" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
+
+    <!-- 4 RIGHT LEGS -->
+    <path d="M 30 13 Q 39 4 43 12" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M 32 18 Q 41 13 44 22" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M 32 25 Q 40 31 43 38" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M 30 30 Q 37 40 40 45" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
+
+    <!-- SILK THREAD EMITTED BY SPIDER -->
+    <line x1="22" cy="34" x2="22" y2="70" stroke="#FFFFFF" stroke-width="1.5" stroke-dasharray="2,2" opacity="0.8">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.5s" repeatCount="indefinite" />
+    </line>
+  </g>
+
+  <!-- BOTTOM STATUS -->
+  <text x="35" y="165" fill="#8B949E" font-family="monospace, sans-serif" font-size="11" font-weight="bold">
+    🕷️ ARACHNID MATRIX: LIVE SPIDER WEAVING 1,159+ CONTRIBUTIONS
+  </text>
+</svg>
