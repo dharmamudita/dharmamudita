@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- MANGA COMIC HEADER SVG BANNER -->
-<img width="100%" src="./assets/comic-header.svg" alt="Dharma Mudita Manga Header" />
+<img width="100%" src="https://raw.githubusercontent.com/dharmamudita/dharmamudita/main/assets/comic-header.svg" alt="Dharma Mudita Manga Header" />
 
 <br/><br/>
 
@@ -25,7 +25,7 @@
 ---
 
 <!-- PANEL 1 BANNER -->
-<img width="100%" src="./assets/comic-dossier-banner.svg" alt="Panel 1 Dossier Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/dharmamudita/dharmamudita/main/assets/comic-dossier-banner.svg" alt="Panel 1 Dossier Banner" />
 
 <br/><br/>
 
@@ -84,7 +84,7 @@ export const developer = {
 ---
 
 <!-- PANEL 2 BANNER -->
-<img width="100%" src="./assets/comic-arsenal-banner.svg" alt="Panel 2 Arsenal Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/dharmamudita/dharmamudita/main/assets/comic-arsenal-banner.svg" alt="Panel 2 Arsenal Banner" />
 
 <br/><br/>
 
@@ -186,7 +186,7 @@ export const developer = {
 ---
 
 <!-- PANEL 3 BANNER -->
-<img width="100%" src="./assets/comic-battle-banner.svg" alt="Panel 3 Battle Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/dharmamudita/dharmamudita/main/assets/comic-battle-banner.svg" alt="Panel 3 Battle Banner" />
 
 <br/><br/>
 
@@ -211,7 +211,7 @@ export const developer = {
 ---
 
 <!-- PANEL 4 BANNER (ARACHNID / SPIDER WEB MATRIX) -->
-<img width="100%" src="./assets/comic-spider-banner.svg" alt="Panel 4 Spider Matrix Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/dharmamudita/dharmamudita/main/assets/comic-spider-banner.svg" alt="Panel 4 Spider Matrix Banner" />
 
 <br/><br/>
 
@@ -224,7 +224,7 @@ export const developer = {
 </div>
 <br/>
 
-<img width="100%" src="./assets/spider-crawler.svg" alt="Arachnid Contribution Matrix" />
+<img width="100%" src="https://raw.githubusercontent.com/dharmamudita/dharmamudita/main/assets/spider-crawler.svg" alt="Arachnid Contribution Matrix" />
 
 </td>
 </tr>
@@ -235,7 +235,7 @@ export const developer = {
 ---
 
 <!-- PANEL 5 BANNER -->
-<img width="100%" src="./assets/comic-connect-banner.svg" alt="Panel 5 Connect Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/dharmamudita/dharmamudita/main/assets/comic-connect-banner.svg" alt="Panel 5 Connect Banner" />
 
 <br/><br/>
 
