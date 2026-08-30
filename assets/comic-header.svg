@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="100%">
+  <defs>
+    <!-- MANGA HALFTONE PATTERN -->
+    <pattern id="halftone" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.5" fill="#FFFFFF" opacity="0.3" />
+      <circle cx="9" cy="9" r="2.5" fill="#FFFFFF" opacity="0.4" />
+    </pattern>
+    <pattern id="dense-halftone" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2" fill="#FFFFFF" opacity="0.6" />
+    </pattern>
+    <!-- LINEAR GRADIENTS -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="50%" stop-color="#121212" />
+      <stop offset="100%" stop-color="#050505" />
+    </linearGradient>
+  </defs>
+
+  <!-- BACKGROUND RECTANGLE WITH THICK BORDER -->
+  <rect x="6" y="6" width="888" height="228" rx="18" fill="url(#bg-grad)" stroke="#FFFFFF" stroke-width="4" />
+  
+  <!-- HALFTONE TEXTURE OVERLAY -->
+  <rect x="8" y="8" width="884" height="224" rx="16" fill="url(#halftone)" />
+
+  <!-- DYNAMIC MANGA SPEED LINES (LEFT & RIGHT) -->
+  <polygon points="10,10 240,10 120,230 10,230" fill="#FFFFFF" opacity="0.08" />
+  <polygon points="900,10 660,10 780,230 900,230" fill="#FFFFFF" opacity="0.08" />
+  
+  <line x1="20" y1="30" x2="280" y2="120" stroke="#FFFFFF" stroke-width="1.5" opacity="0.4" />
+  <line x1="15" y1="70" x2="260" y2="130" stroke="#FFFFFF" stroke-width="2" opacity="0.5" />
+  <line x1="25" y1="180" x2="270" y2="140" stroke="#FFFFFF" stroke-width="1.5" opacity="0.3" />
+  <line x1="880" y1="30" x2="620" y2="120" stroke="#FFFFFF" stroke-width="1.5" opacity="0.4" />
+  <line x1="885" y1="70" x2="640" y2="130" stroke="#FFFFFF" stroke-width="2" opacity="0.5" />
+  <line x1="875" y1="180" x2="630" y2="140" stroke="#FFFFFF" stroke-width="1.5" opacity="0.3" />
+
+  <!-- TOP COMIC TAG -->
+  <rect x="290" y="24" width="320" height="32" rx="8" fill="#FFFFFF" stroke="#000000" stroke-width="2" />
+  <text x="450" y="46" fill="#000000" font-family="'Impact', 'Arial Black', sans-serif" font-size="14" font-weight="900" text-anchor="middle" letter-spacing="2">
+    ★ ISSUE #01 : THE DIGITAL CHRONICLES ★
+  </text>
+
+  <!-- MAIN CHARACTER TITLE -->
+  <text x="450" y="130" fill="#FFFFFF" font-family="'Impact', 'Arial Black', 'Bangers', sans-serif" font-size="64" font-weight="900" text-anchor="middle" letter-spacing="4" stroke="#000000" stroke-width="3">
+    DHARMA MUDITA
+  </text>
+
+  <!-- BOTTOM SUBTITLE -->
+  <rect x="180" y="165" width="540" height="36" rx="8" fill="#000000" stroke="#FFFFFF" stroke-width="2" />
+  <text x="450" y="189" fill="#FFFFFF" font-family="monospace, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" letter-spacing="2">
+    FULL-STACK ENGINEER • NEXT.JS &amp; TYPESCRIPT • AI EXPLORER
+  </text>
+
+  <!-- CORNER COMIC BRACKETS -->
+  <path d="M 24 45 L 24 24 L 45 24" fill="none" stroke="#FFFFFF" stroke-width="4" />
+  <path d="M 876 45 L 876 24 L 855 24" fill="none" stroke="#FFFFFF" stroke-width="4" />
+  <path d="M 24 195 L 24 216 L 45 216" fill="none" stroke="#FFFFFF" stroke-width="4" />
+  <path d="M 876 195 L 876 216 L 855 216" fill="none" stroke="#FFFFFF" stroke-width="4" />
+</svg>

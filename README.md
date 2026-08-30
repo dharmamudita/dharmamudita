@@ -1,11 +1,11 @@
 <div align="center">
 
-# ⚡ DHARMA MUDITA ⚡
-### `[ ISSUE #01 : FULL-STACK ENGINEER • TYPESCRIPT & NEXT.JS • AI EXPLORER ]`
+<!-- PURE MANGA COMIC HEADER SVG BANNER -->
+<img width="100%" src="./assets/comic-header.svg" alt="Dharma Mudita Manga Header" />
 
-<br/>
+<br/><br/>
 
-<!-- MANGA TYPING ANIMATION (FIXED HEIGHT SO NO TEXT GETS CROPPED) -->
+<!-- MANGA TYPING ANIMATION (BALANCED HEIGHT SO NO TEXT CLIPS) -->
 <a href="https://github.com/dharmamudita">
   <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=800&size=24&duration=3200&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=120&lines=POW!+TURNING+COMPLEX+CHALLENGES+INTO+SCALABLE+CODE;BOOM!+MODERN+NEXT.JS+%26+TYPESCRIPT+ARCHITECTURE;KAPOW!+EXPLORING+AI%2C+DEEP+LEARNING+%26+COMPUTER+VISION;LEVEL+UP!+CRAFTING+HIGH-IMPACT+RESPONSIVE+WEB+SYSTEMS" alt="Manga Typing Animation" />
 </a>
@@ -26,13 +26,14 @@
 
 ---
 
-## 🗯️ [PANEL 1] DEVELOPER DOSSIER & ORIGIN
+<!-- PANEL 1 BANNER -->
+<img width="100%" src="./assets/comic-dossier-banner.svg" alt="Panel 1 Dossier Banner" />
+
+<br/><br/>
 
 <table width="100%">
 <tr>
-<td style="background-color: #121212; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px;">
-
-### 💬 MISSION DIRECTIVE & PROFILE
+<td style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px;">
 
 ```yaml
 identity:
@@ -72,11 +73,14 @@ export const developer = {
 
 ---
 
-## ⚔️ [PANEL 2] ARSENAL & WEAPONS (TECH STACK)
+<!-- PANEL 2 BANNER -->
+<img width="100%" src="./assets/comic-arsenal-banner.svg" alt="Panel 2 Arsenal Banner" />
+
+<br/><br/>
 
 <table width="100%">
 <tr>
-<td align="center" style="background-color: #121212; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px;">
+<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px;">
 
 ### Core Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
@@ -138,11 +142,14 @@ export const developer = {
 
 ---
 
-## 📊 [PANEL 3] BATTLE METRICS (GITHUB STREAK & STATS)
+<!-- PANEL 3 BANNER -->
+<img width="100%" src="./assets/comic-battle-banner.svg" alt="Panel 3 Battle Banner" />
+
+<br/><br/>
 
 <table width="100%">
 <tr>
-<td align="center" style="background-color: #121212; border: 3px solid #FFFFFF; border-radius: 16px; padding: 18px;">
+<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px;">
 
 <!-- B&W STREAK STATS (100% WORKING & ACCURATE) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmamudita&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=FFFFFF&dates=E0E0E0&border_radius=14" alt="GitHub Streak Stats" />
@@ -155,11 +162,14 @@ export const developer = {
 
 ---
 
-## 🐍 [PANEL 4] CONTRIBUTION ARCADE SNAKE
+<!-- PANEL 4 BANNER -->
+<img width="100%" src="./assets/comic-snake-banner.svg" alt="Panel 4 Snake Banner" />
+
+<br/><br/>
 
 <table width="100%">
 <tr>
-<td align="center" style="background-color: #121212; border: 3px solid #FFFFFF; border-radius: 16px; padding: 18px;">
+<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px;">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake-dark.svg?raw=true" />
@@ -175,11 +185,14 @@ export const developer = {
 
 ---
 
-## 📡 [PANEL 5] TRANSMISSION (CONNECT)
+<!-- PANEL 5 BANNER -->
+<img width="100%" src="./assets/comic-connect-banner.svg" alt="Panel 5 Connect Banner" />
+
+<br/><br/>
 
 <table width="100%">
 <tr>
-<td align="center" style="background-color: #121212; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px;">
+<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px;">
 
 <p style="font-size: 15px; color: #FFFFFF; font-weight: bold; margin-top: 0;">Ready to collaborate on high-impact software? Reach out through any channel:</p>
 
