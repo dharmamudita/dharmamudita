@@ -20,8 +20,6 @@
   <a href="https://github.com/dharmamudita?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-22%20PUBLIC-000000?style=for-the-badge&labelColor=222222" alt="Repositories" /></a>
 </p>
 
-</div>
-
 <br/>
 
 ---
@@ -31,12 +29,14 @@
 
 <br/><br/>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px; box-shadow: 6px 6px 0px #FFFFFF;">
+<td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px; box-shadow: 6px 6px 0px #FFFFFF;">
 
-<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 15px; font-weight: 900; padding: 6px 16px; border-radius: 8px; display: inline-block; margin-bottom: 14px; letter-spacing: 1px;">
-  🗯️ TOP SECRET : DEVELOPER PROFILE
+<div align="center">
+  <div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 15px; font-weight: 900; padding: 6px 18px; border-radius: 8px; display: inline-block; margin-bottom: 16px; letter-spacing: 1px;">
+    🗯️ TOP SECRET : DEVELOPER PROFILE
+  </div>
 </div>
 
 ```yaml
@@ -54,8 +54,12 @@ identity:
   motto: "Clean code, robust architecture, and relentless curiosity."
 ```
 
-<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 15px; font-weight: 900; padding: 6px 16px; border-radius: 8px; display: inline-block; margin: 14px 0 10px 0; letter-spacing: 1px;">
-  ⚡ SYSTEM ARCHITECTURE SPECIFICATION
+<br/>
+
+<div align="center">
+  <div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 15px; font-weight: 900; padding: 6px 18px; border-radius: 8px; display: inline-block; margin: 10px 0 16px 0; letter-spacing: 1px;">
+    ⚡ SYSTEM ARCHITECTURE SPECIFICATION
+  </div>
 </div>
 
 ```typescript
@@ -86,11 +90,11 @@ export const developer = {
 
 <br/><br/>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px; box-shadow: 6px 6px 0px #FFFFFF;">
 
-<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 14px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 16px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
   ⚔️ CORE PROGRAMMING LANGUAGES
 </div>
 <br/>
@@ -106,7 +110,7 @@ export const developer = {
 
 <br/><br/>
 
-<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 14px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 16px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
   🛡️ WEB ENGINES &amp; FRAMEWORKS
 </div>
 <br/>
@@ -122,7 +126,7 @@ export const developer = {
 
 <br/><br/>
 
-<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 14px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 16px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
   🔮 DATABASES &amp; CLOUD INFRASTRUCTURE
 </div>
 <br/>
@@ -137,7 +141,7 @@ export const developer = {
 
 <br/><br/>
 
-<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 14px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 16px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
   🤖 ARTIFICIAL INTELLIGENCE &amp; VISION
 </div>
 <br/>
@@ -153,7 +157,7 @@ export const developer = {
 
 <br/><br/>
 
-<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 14px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
+<div style="background-color: #FFFFFF; color: #000000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 14px; font-weight: 900; padding: 5px 16px; border-radius: 6px; display: inline-block; margin-bottom: 12px; letter-spacing: 1px;">
   🎨 CREATIVE STUDIO &amp; TOOLS
 </div>
 <br/>
@@ -178,7 +182,7 @@ export const developer = {
 
 <br/><br/>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px; box-shadow: 6px 6px 0px #FFFFFF;">
 
@@ -203,7 +207,7 @@ export const developer = {
 
 <br/><br/>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px; box-shadow: 6px 6px 0px #FFFFFF;">
 
@@ -226,7 +230,7 @@ export const developer = {
 
 <br/><br/>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 <td align="center" style="background-color: #0D1117; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px; box-shadow: 6px 6px 0px #FFFFFF;">
 
@@ -253,3 +257,5 @@ export const developer = {
 </td>
 </tr>
 </table>
+
+</div>
