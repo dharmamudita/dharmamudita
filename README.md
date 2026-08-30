@@ -5,14 +5,14 @@
 
 <br/>
 
-<!-- MANGA TYPING ANIMATION (PURE B&W COMIC TYPOGRAPHY) -->
+<!-- MANGA TYPING ANIMATION (FIXED HEIGHT SO NO TEXT GETS CROPPED) -->
 <a href="https://github.com/dharmamudita">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=800&size=25&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=80&lines=POW!+TURNING+COMPLEX+CHALLENGES+INTO+SCALABLE+CODE;BOOM!+MODERN+NEXT.JS+%26+TYPESCRIPT+ARCHITECTURE;KAPOW!+EXPLORING+AI%2C+DEEP+LEARNING+%26+COMPUTER+VISION;LEVEL+UP!+CRAFTING+RESPONSIVE+HIGH-IMPACT+WEB+APPS" alt="Manga Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=800&size=24&duration=3200&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=120&lines=POW!+TURNING+COMPLEX+CHALLENGES+INTO+SCALABLE+CODE;BOOM!+MODERN+NEXT.JS+%26+TYPESCRIPT+ARCHITECTURE;KAPOW!+EXPLORING+AI%2C+DEEP+LEARNING+%26+COMPUTER+VISION;LEVEL+UP!+CRAFTING+HIGH-IMPACT+RESPONSIVE+WEB+SYSTEMS" alt="Manga Typing Animation" />
 </a>
 
 <br/>
 
-<!-- BLACK & WHITE BADGES -->
+<!-- BLACK & WHITE COMIC BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-000000?style=for-the-badge&logoColor=FFFFFF&labelColor=222222&color=000000" alt="Status" />
   <img src="https://komarev.com/ghpvc/?username=dharmamudita&label=READERS&color=000000&style=for-the-badge" alt="Profile Views" />
@@ -26,7 +26,13 @@
 
 ---
 
-## 🗯️ [PANEL 1] DEVELOPER DOSSIER
+## 🗯️ [PANEL 1] DEVELOPER DOSSIER & ORIGIN
+
+<table width="100%">
+<tr>
+<td style="background-color: #121212; border: 3px solid #FFFFFF; border-radius: 16px; padding: 20px;">
+
+### 💬 MISSION DIRECTIVE & PROFILE
 
 ```yaml
 identity:
@@ -58,13 +64,19 @@ export const developer = {
 } as const;
 ```
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 ---
 
 ## ⚔️ [PANEL 2] ARSENAL & WEAPONS (TECH STACK)
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" style="background-color: #121212; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px;">
 
 ### Core Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
@@ -118,7 +130,9 @@ export const developer = {
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -126,10 +140,16 @@ export const developer = {
 
 ## 📊 [PANEL 3] BATTLE METRICS (GITHUB STREAK & STATS)
 
-<div align="center">
-  <!-- B&W STREAK STATS (100% WORKING & ACCURATE) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmamudita&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=FFFFFF&dates=E0E0E0&border_radius=14" alt="GitHub Streak Stats" />
-</div>
+<table width="100%">
+<tr>
+<td align="center" style="background-color: #121212; border: 3px solid #FFFFFF; border-radius: 16px; padding: 18px;">
+
+<!-- B&W STREAK STATS (100% WORKING & ACCURATE) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmamudita&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=E0E0E0&currStreakLabel=FFFFFF&dates=E0E0E0&border_radius=14" alt="GitHub Streak Stats" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -137,21 +157,31 @@ export const developer = {
 
 ## 🐍 [PANEL 4] CONTRIBUTION ARCADE SNAKE
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake-dark.svg?raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake.svg?raw=true" />
-    <img alt="Contribution Snake" src="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake.svg?raw=true" />
-  </picture>
-</div>
+<table width="100%">
+<tr>
+<td align="center" style="background-color: #121212; border: 3px solid #FFFFFF; border-radius: 16px; padding: 18px;">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake.svg?raw=true" />
+  <img alt="Contribution Snake" src="https://github.com/dharmamudita/dharmamudita/blob/output/github-snake.svg?raw=true" />
+</picture>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
 ## 📡 [PANEL 5] TRANSMISSION (CONNECT)
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" style="background-color: #121212; border: 3px solid #FFFFFF; border-radius: 16px; padding: 22px;">
 
-<p><b>Ready to collaborate on high-impact software? Reach out through any channel:</b></p>
+<p style="font-size: 15px; color: #FFFFFF; font-weight: bold; margin-top: 0;">Ready to collaborate on high-impact software? Reach out through any channel:</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=222222)](https://www.instagram.com/voltxdharma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222222)](https://www.linkedin.com/in/dharma-mudita-a7421641a)
@@ -167,4 +197,6 @@ export const developer = {
 └──────────────────────────────────────────────────────────┘
 ```
 
-</div>
+</td>
+</tr>
+</table>
