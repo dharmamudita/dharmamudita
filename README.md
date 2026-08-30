@@ -20,18 +20,14 @@
   <a href="https://github.com/dharmamudita?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-22%20PUBLIC-000000?style=for-the-badge&labelColor=222222" alt="Repositories" /></a>
 </p>
 
-</div>
-
 <br/>
 
 ---
 
 <!-- PANEL 1 BANNER -->
-<div align="center">
-  <img width="100%" src="./assets/comic-dossier-banner.svg" alt="Panel 1 Dossier Banner" />
-</div>
+<img width="100%" src="./assets/comic-dossier-banner.svg" alt="Panel 1 Dossier Banner" />
 
-<br/>
+<br/><br/>
 
 <table align="center" width="100%">
 <tr>
@@ -88,11 +84,9 @@ export const developer = {
 ---
 
 <!-- PANEL 2 BANNER -->
-<div align="center">
-  <img width="100%" src="./assets/comic-arsenal-banner.svg" alt="Panel 2 Arsenal Banner" />
-</div>
+<img width="100%" src="./assets/comic-arsenal-banner.svg" alt="Panel 2 Arsenal Banner" />
 
-<br/>
+<br/><br/>
 
 <table align="center" width="100%">
 <tr>
@@ -192,11 +186,9 @@ export const developer = {
 ---
 
 <!-- PANEL 3 BANNER -->
-<div align="center">
-  <img width="100%" src="./assets/comic-battle-banner.svg" alt="Panel 3 Battle Banner" />
-</div>
+<img width="100%" src="./assets/comic-battle-banner.svg" alt="Panel 3 Battle Banner" />
 
-<br/>
+<br/><br/>
 
 <table align="center" width="100%">
 <tr>
@@ -219,11 +211,9 @@ export const developer = {
 ---
 
 <!-- PANEL 4 BANNER (ARACHNID / SPIDER WEB MATRIX) -->
-<div align="center">
-  <img width="100%" src="./assets/comic-spider-banner.svg" alt="Panel 4 Spider Matrix Banner" />
-</div>
+<img width="100%" src="./assets/comic-spider-banner.svg" alt="Panel 4 Spider Matrix Banner" />
 
-<br/>
+<br/><br/>
 
 <table align="center" width="100%">
 <tr>
@@ -249,11 +239,9 @@ export const developer = {
 ---
 
 <!-- PANEL 5 BANNER -->
-<div align="center">
-  <img width="100%" src="./assets/comic-connect-banner.svg" alt="Panel 5 Connect Banner" />
-</div>
+<img width="100%" src="./assets/comic-connect-banner.svg" alt="Panel 5 Connect Banner" />
 
-<br/>
+<br/><br/>
 
 <table align="center" width="100%">
 <tr>
@@ -284,3 +272,5 @@ export const developer = {
 </td>
 </tr>
 </table>
+
+</div>
